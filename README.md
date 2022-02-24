@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andy Walker. I am 25 years old located in the U.S.
+- Hi, I’m Andy Walker. I am 25 years old located in the U.S.
 - I am focused on making a career change from Physical Therapy to Backend Software development.
 - 
 
